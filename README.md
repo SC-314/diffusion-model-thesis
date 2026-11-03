@@ -6,7 +6,9 @@
 
 This repository only contains the independent project code as my independent project is where most of the experimenting took place,
 the code is quite unorganised due to code presentation not being a requirement for my thesis, I included this repository as just extra
-proof and 
+proof and context.
+
+The python notebook files with plots in the title are the most relevant files and still contains the plots created during the thesis
 
 ## Locate important folders
 ### Code used for final report
